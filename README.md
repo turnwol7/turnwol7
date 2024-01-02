@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**turnwol7/turnwol7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I left 100k oilfield work to start software development at 34!
 
 - 🔭 I’m currently working on ... a web3 blockchain freelance project
@@ -16,4 +13,3 @@ Socials:
 IG: www.instagram.com/jbishlifts
 Youtube: www.youtube.com/justinbishop
 LinkedIn: www.linkedin.com/in/justin-bishop-32276075
--->
