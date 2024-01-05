@@ -9,7 +9,7 @@ I left 100k oilfield work to start software development at 34!
 - 📫 How to reach me: ... justinb.developer@gmail.com
 - ⚡ Fun fact: ... I built an AirBnB to get me through software development school at 34
 
-Socials: \n
-IG: www.instagram.com/jbishlifts \n
-Youtube: www.youtube.com/justinbishop \n
+Socials:   
+IG: www.instagram.com/jbishlifts   
+Youtube: www.youtube.com/justinbishop   
 LinkedIn: www.linkedin.com/in/justin-bishop-32276075 
