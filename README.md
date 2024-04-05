@@ -2,7 +2,7 @@
 
 I left 100k oilfield work to start software development at 34!
 
-- 🔭 I’m currently working on ... ERC721a Whitelist NFT project
+- 🔭 I’m currently working on ... Learning in the Web3 industry!
 - 🌱 I’m currently learning ... in my final year of IT-Programming graduating in May 2024
 - 👯 I’m looking to collaborate on ... open source projects!
 - 💬 Ask me about ... videography, travel or the gym!
