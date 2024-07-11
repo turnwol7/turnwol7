@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I transitioned from the oilfield to start programming in software development at 34!
+I transitioned from the oilfield to software development at 34!
 
-- 🔭 Working on landing my first non-internship software development position!
+- 🔭 Building a Web3 generational wealth inheritance web application.
 
 - 📫 How to reach me: ... justinb.developer@gmail.com
 
