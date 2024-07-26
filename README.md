@@ -2,7 +2,7 @@
 
 I transitioned from the oilfield to software development at 34!
 
-- 🔭 Building a Web3 generational wealth inheritance web application.
+- 🔭 I love computers, finance, learning and building things.
 
 - 📫 How to reach me: ... justinb.developer@gmail.com
 
