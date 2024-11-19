@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I transitioned from the oilfield to software development at 34! I work in the blockchain industry as a Web3 developer. Currently building on Starknet in Cairo! 
+I transitioned from the oilfield to software development at 34! I work in the blockchain industry as a Web3 developer. Currently building on Starknet!
 
 - 🔭 I love computers, finance, learning and building things.
 
