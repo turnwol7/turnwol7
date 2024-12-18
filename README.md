@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Web3 developer. 
+Full Stack Developer. 
 
 - 🔭 I love computers, finance, and building things.
   
-x: https://x.com/turnwol7  
+LinkedIn: https://www.linkedin.com/in/thejustinbishop/  
