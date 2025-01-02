@@ -1,4 +1,4 @@
-### Have you tried mercenary work? It might suit you.
+### Hello 🤙  
 
 Full Stack Developer. 
 
