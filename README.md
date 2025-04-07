@@ -1,6 +1,6 @@
 ### Hello 🤙  
 
-Full Stack Developer. 
+Software Engineering
 
 - 🔭 I love computers, finance, and building things.
   
