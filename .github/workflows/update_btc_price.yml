@@ -1,0 +1,36 @@
+name: Update Bitcoin Price
+
+on:
+  schedule:
+    # Runs at 00:00, 06:00, 12:00, and 18:00 UTC every day
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-price:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+    
+    - name: Run price update script
+      run: python fetch_btc_price.py
+    
+    - name: Commit and push if changed
+      run: |
+        git config --local user.email "justinb.developer@gmail.com"
+        git config --local user.name "turnwol7"
+        git add README.md
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update Bitcoin price [skip ci]" && git push)
