@@ -21,7 +21,8 @@ def get_bitcoin_price():
             time.sleep(1)  # Wait before retrying
 
 def update_readme(price):
-    current_time = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    # Get current time in UTC
+    current_time = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
     
     try:
         with open("README.md", 'r') as file:
