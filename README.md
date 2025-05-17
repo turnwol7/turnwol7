@@ -209,6 +209,7 @@ LinkedIn: https://www.linkedin.com/in/thejustinbishop/
 
 
 
+
 ### Bitcoin Price Update
-Last updated: 2025-05-17 10:12:56 UTC
-Current price: $102,979.00 USD
+Last updated: 2025-05-17 10:40:34 UTC
+Current price: $103,007.00 USD
